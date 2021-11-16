@@ -1,4 +1,6 @@
-![databox_logo](https://user-images.githubusercontent.com/64593005/141999841-c68b69b5-2a60-498b-912b-39f7435673ad.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/64593005/142001149-0e45750a-0c18-486c-aec3-476c0d1790db.png" alt="Data Box" />
+</p>
 
 # Data Box
 
