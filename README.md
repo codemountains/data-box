@@ -1,3 +1,5 @@
+![databox_logo](https://user-images.githubusercontent.com/64593005/141999841-c68b69b5-2a60-498b-912b-39f7435673ad.png)
+
 # Data Box
 
 マスターデータとなる汎用的なデータを管理する。
