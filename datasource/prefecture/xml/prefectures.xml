@@ -1,7 +1,7 @@
 <prefectures>
     <prefecture>
         <id>1</id>
-        <id>北海道</id>
+        <name>北海道</name>
     </prefecture>
     <prefecture>
         <id>2</id>
