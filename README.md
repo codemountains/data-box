@@ -1,12 +1,9 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/64593005/142001149-0e45750a-0c18-486c-aec3-476c0d1790db.png" alt="Data Box" />
-</p>
+<div align="center">
+    <img src="assets/data-box-logo.png" alt="Data Box" />
+    <p>マスタデータとなる汎用的なデータを管理する。</p>
+</div>
 
-# Data Box
-
-マスタデータとなる汎用的なデータを管理する。
-
-## 都道府県マスタデータ
+## マスタデータ
 
 ### Sample - JavaScript
 
